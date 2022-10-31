@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Linto Paul
-- 👀 I’m interested in opportunities related to Go development
+- 👀 I’m interested backend and platform development in Go
 - 🌱 I’m currently learning various concurrency primitives in Go
-- 💞️ I’m looking to collaborate on CNCF projects
+- 💞️ I’m looking to collaborate on Go based opensource or CNCF projects
 - 📫 You can reach me on lintopaul at gmail dot com
 
 <!---
